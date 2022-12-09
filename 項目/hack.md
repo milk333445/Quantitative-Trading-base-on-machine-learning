@@ -406,11 +406,9 @@ $x=(x_1,\ldots,x_{23})$, $p=23$. (此處已在Data的部分提及，故不再加
 
 
 #### 附註
-![](https://i.imgur.com/drjrMLM.png)
 **準確度(Accuracy) = (TP+TN)/(TP+FP+FN+TN)**
 **精確度(Precision) = TP/(TP+FP)**
 **召回率(Recall) = TP/(TP+FN)**
-![](https://i.imgur.com/KvOxCrC.png)
 
 ---
 
